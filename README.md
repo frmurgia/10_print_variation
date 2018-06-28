@@ -1,5 +1,5 @@
 
-# 10 print [launch / open](github.io/frmurgia/10PRINT/index.html)
+# 10 print [launch / open](https://git.io/f4FCe)
 ![Alt Text](https://github.com/frmurgia/Img/blob/master/10%20print.png?raw=true)
 ispirato al lavoro audio/video minimalista
 di Ryoji Ikeda
